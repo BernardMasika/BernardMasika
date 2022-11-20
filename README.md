@@ -3,7 +3,7 @@
 <br />
 
 - 🔐 do you want to know how stupid you are!, code 🐼
-- 🌱 I’m currently exploring the React Universe!
+- 🌱 I’m currently exploring the Extended Reality-verse!
 - 🦘 I code for fun!, because that way your creativeness is an A+
 - 🤗 Anyone in need of a contributor?
 - ⚡ Fun fact: I like to dance 🤸‍♂️
@@ -30,6 +30,6 @@
 
 
 
-[twitter]: https://twitter.com/dev_mindkit
+[twitter]: https://twitter.com/bernard_masika
 [instagram]: https://www.instagram.com/bernard_masika/
-[linkedin]: https://www.linkedin.com/in/bernard-masika-83a4a817b/
+[linkedin]: https://www.linkedin.com/in/bernard_masika/

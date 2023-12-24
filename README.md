@@ -4,7 +4,7 @@
 
 - 🔐 do you want to know how stupid you are!, code 🐼
 - 🌱 I’m currently exploring the Extended Reality-verse!
-- 🦘 I code for fun!, because that way your creativeness is an A+
+- 🦘 I code for fun!, because that way your creativeness becomes A+
 - 🤗 Anyone in need of a contributor?
 - ⚡ Fun fact: I like to dance 🤸‍♂️
 

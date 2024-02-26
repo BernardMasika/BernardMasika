@@ -11,7 +11,7 @@
 <br/>
 
 
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,angular,nodejs,cs,unity)
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,angular,nodejs,cs,unity,blender)
 
 <br />
 
